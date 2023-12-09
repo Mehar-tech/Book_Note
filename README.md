@@ -1,7 +1,15 @@
+Step I did in this project
+
 step 1: create a new repo in git hub
 step 2: staged changes in local
 step 3: committed changes with message 
-step 4: pushed changes by upstream the main branch  
+step 4: pushed changes by upstream the master branch  
+step 5: created two branches from master those are subBranch1 and SubBranch2
+step 6: Added a commented line in app.tsx file in subBranch1
+step 7: Added a another commented line in app.tsx file in subBranch2
+step 8: Merged subBranch1 with master
+step 9: Merged subBranch2 with master (got conflicts in app.tsx file)
+step 10: Resolved the conflicts, staged, commited pushed in master
 
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
