@@ -32,6 +32,5 @@ function App() {
 export default App;
 
 
-//Added in subBranch1
 
 //Added a commented line in SubBranch1
